@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2b70940e18f4f0d47a264efbc41ad224
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreText: {instanceID: 0}
+  - TimerText: {instanceID: 0}
+  - RestartLevel: {fileID: 8327487971948338712, guid: 03292c0c644b5234786f3ef89e117b1b,
+      type: 3}
+  - GameplayCanvas: {fileID: 8026015733368771461, guid: effd1be617d6ec94d9f06fda885e9951,
+      type: 3}
+  - TutorialCanvas: {fileID: 1230791808107835841, guid: df8633df29a0cbe468a40700524cd45c,
+      type: 3}
+  - Weapon: {fileID: 919132149155446097, guid: ee1607c37b3228649b3d7bf99b558b4f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
